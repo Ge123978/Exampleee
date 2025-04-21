@@ -1,0 +1,35 @@
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    .hero {
+      background: url('https://source.unsplash.com/1600x600/?nature,technology') no-repeat center center/cover;
+      color: rgb(224, 128, 128);
+      padding: 100px 20px;
+      text-align: center;
+    }
+
+    .section-padding {
+      padding: 60px 0;
+    }
+
+    footer {
+      background-color: #343a40;
+      color: #fff;
+      padding: 20px 0;
+    }
+
+    footer a {
+      color: #adb5bd;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: #fff;
+    }
+
+    .carousel img {
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
